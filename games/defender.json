@@ -1,7 +1,7 @@
 {
   "windows":
   {
-    "min": 1,
+    "min": "1.0.0",
     "max": "1.0.1",
     "url": "https://tank-king.itch.io/defender"
   }
