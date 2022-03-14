@@ -10,5 +10,22 @@
     "min": "1.0.0",
     "max": "1.0.0",
     "url": "https://tank-king.itch.io/defender"
+  },
+  "leaderboard":
+  {
+    "error":"",
+    "leaderboard":[
+      ["NOVIAL", 1161250],
+      ["STARBUCK", 1529400],
+      ["NM", 86850],
+      ["GHAST", 75800],
+      ["POLASTYN2030", 88250],
+      ["ABCDE", 45900],
+      ["POLASTYN203", 37450],
+      ["GAMER", 33700],
+      ["MARTINKESSY", 28450],
+      ["MIC", 25350]
+    ],
+    "message":"Leaderboard for user tankking, leaderboard defender"
   }
 }
